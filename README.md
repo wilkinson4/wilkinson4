@@ -11,12 +11,6 @@
 
  - I'm currently working full-time as a developer for CareBridge Health building web/mobile software in Elixir, React, and PostgreSQL.
 
-### Stats
-
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkinson4&show_icons=true&theme=merko)
-
-[![Will's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wilkinson4&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--
 **wilkinson4/wilkinson4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
